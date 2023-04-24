@@ -1,0 +1,9 @@
+.sub1{
+    display: block;
+    margin-top: 10px;
+    color:rgb(33, 91, 91);
+    text-decoration: underline;
+}
+.subhead{
+    font-size: medium;
+}
